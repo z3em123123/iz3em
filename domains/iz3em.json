@@ -1,0 +1,15 @@
+{
+  "description": "My Portfolio",
+  "repo": "https://github.com/z3em123123/NewZ3emWebsite",
+  "owner": {
+    "username": "z3em123123",
+    "email": "iz3embusiness@gmail.com",
+    "Discord": ".iz3em"
+  },
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ],
+    "TXT": "vc-domain-verify=iz3em.is-a.dev,482782d4f457eda659a9"
+  }
+}
